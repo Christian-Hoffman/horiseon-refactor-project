@@ -56,6 +56,16 @@ p {
     font-size: 16px;
 }
 
+/* changed from classes to semantic elements */
+/* moved elements to batter match order in html */
+main article img {
+    max-height: 200px;
+}
+
+main article h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 
 .float-left {
     float: left;
@@ -142,16 +152,6 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-/* changed from classes to semantic elements */
-main article img {
-    max-height: 200px;
-}
-
-main article h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 footer {
