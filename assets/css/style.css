@@ -39,10 +39,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -51,6 +47,12 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* moved p down to better match order in html */
+p {
+    font-size: 16px;
+}
+
 
 .float-left {
     float: left;
