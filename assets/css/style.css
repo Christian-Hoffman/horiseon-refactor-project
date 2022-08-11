@@ -19,8 +19,8 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
-header h1 .seo {
+/* removed header h1 from line, unessesary */
+.seo {
     color: #d9dcd6;
 }
 /* removed unesessary css from file */
