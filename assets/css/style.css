@@ -14,15 +14,18 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
+
 /* removed header from line, unnecessary */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
+
 /* removed header h1 from line, unnecessary */
 .seo {
     color: #d9dcd6;
 }
+
 /* removed unesessary css from file */
 nav {
     padding-top: 15px;
@@ -128,6 +131,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
 /* optmized code by deleting repeats */
 .search-engine-optimization,
 .online-reputation-management,
@@ -139,6 +143,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 /* changed from classes to semantic elements */
 main article img {
     max-height: 200px;
