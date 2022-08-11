@@ -5,8 +5,10 @@
 2. [Visuals](#visuals)
 
 ## Description
-[link to live site](url)
-Desription of my site
+[Horiseon - Social Solution Services](https://christian-hoffman.github.io/horiseon-refactor-project/)
+Horiseon site is build to have all information avaliable all on the same page.
+The top bar shows the 3 main sections that you may click on to be brought right to them.
+To the right side of the 3 main sections you will find 3 side sections with more information.
 
 ## Visuals
 ![Horiseon Webpage](./assets/images/horiseon-webpage-image.png)
