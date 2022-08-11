@@ -140,11 +140,11 @@ p {
     color: #ffffff;
 }
 /* changed from classes to semantic elements */
-main div img {
+main article img {
     max-height: 200px;
 }
 
-main div h2 {
+main article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
