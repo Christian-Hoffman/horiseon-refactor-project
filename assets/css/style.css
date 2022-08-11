@@ -14,12 +14,12 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
-header h1 {
+/* removed header from line, unnecessary */
+h1 {
     display: inline-block;
     font-size: 48px;
 }
-/* removed header h1 from line, unessesary */
+/* removed header h1 from line, unnecessary */
 .seo {
     color: #d9dcd6;
 }
