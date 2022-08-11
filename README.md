@@ -1,4 +1,4 @@
-# Title
+# Horiseon Refactor Project
 
 ## Table of Content
 1. [Description](#description)
@@ -10,4 +10,12 @@
 Desription of my site
 
 ## Visuals
-![alt text](path to image)
+![Horiseon Webpage](./assets/images/horiseon-webpage-image.png)
+
+## Insallation
+
+N/A
+
+## Credits
+
+## License
